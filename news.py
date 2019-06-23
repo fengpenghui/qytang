@@ -3,9 +3,9 @@
 # github: https://github.com/fengpenghui
 # 码云: https://gitee.com/fengpenghui0923
 
+yuyan=input()
+new= yuyan[1:]+'-'+yuyan[0]+'y'
+print(new)
 
-word="scallywag"
-sub_word=word[2:-3]
-print(sub_word)
 
 
