@@ -17,3 +17,5 @@ print('%-12s : %s' % ('localserver', result[6]))
 print('%-12s : %-2s小时 %-2s分钟 %-2s秒' % ('idle', result[10],result[11],result[12]))
 print('%-12s : %s' % ('bytes', result[14]))
 print('%-12s : %s' % ('flags', result[16]))
+
+
